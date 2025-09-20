@@ -49,5 +49,5 @@ Here’s a showcase of my projects 👇
 ---
 
 ## 📬 Connect With Me
-- GitHub: [your-username](https://github.com/your-username)  
-- Itch.io: [your-username](https://your-itch.io-link)  
+- GitHub: [your-username](https://github.com/your-sengaaime)  
+- Itch.io: [your-username](https://itch.io-link)  
